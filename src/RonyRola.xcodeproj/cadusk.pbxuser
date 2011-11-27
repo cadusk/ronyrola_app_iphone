@@ -1,0 +1,234 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* RonyRola */ = {
+		activeExec = 0;
+		executables = (
+			312068421249A68700ABFF34 /* RonyRola */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* RonyRolaViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {909, 392}}";
+			sepNavSelRange = "{572, 0}";
+			sepNavVisRange = "{48, 531}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* RonyRolaViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {909, 1400}}";
+			sepNavSelRange = "{642, 0}";
+			sepNavVisRange = "{640, 819}";
+			sepNavWindowFrame = "{{68, 55}, {932, 718}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 312068421249A68700ABFF34 /* RonyRola */;
+		activeSDKPreference = iphonesimulator3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* RonyRola */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* RonyRola */,
+		);
+		breakpoints = (
+			3120689C1249AC4D00ABFF34 /* RonyRolaViewController.m:74 */,
+			312068B61249AE0100ABFF34 /* RonyRolaViewController.m:75 */,
+			312069221249B59300ABFF34 /* RonyRolaViewController.m:95 */,
+		);
+		codeSenseManager = 3120685A1249A69500ABFF34 /* Code sense */;
+		executables = (
+			312068421249A68700ABFF34 /* RonyRola */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					731,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306966046;
+			PBXWorkspaceStateSaveDate = 306966046;
+		};
+		perUserProjectItems = {
+			3120687D1249AAD500ABFF34 /* PBXBookmark */ = 3120687D1249AAD500ABFF34 /* PBXBookmark */;
+			3120687E1249AAD500ABFF34 /* PBXBookmark */ = 3120687E1249AAD500ABFF34 /* PBXBookmark */;
+			315E3F87124A87CF00A85A68 /* PlistBookmark */ = 315E3F87124A87CF00A85A68 /* PlistBookmark */;
+			31932DE0124A854F0049FE1E /* PBXTextBookmark */ = 31932DE0124A854F0049FE1E /* PBXTextBookmark */;
+			31B8AC2E124BEE900086E564 /* PBXTextBookmark */ = 31B8AC2E124BEE900086E564 /* PBXTextBookmark */;
+			31E39F5E124BBE9A003552DD /* PBXTextBookmark */ = 31E39F5E124BBE9A003552DD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 312068591249A69500ABFF34 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	312068421249A68700ABFF34 /* RonyRola */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RonyRola;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	312068591249A69500ABFF34 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3120685A1249A69500ABFF34 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3120687D1249AAD500ABFF34 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 312068551249A69500ABFF34 /* roni2.png */;
+	};
+	3120687E1249AAD500ABFF34 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 312068541249A69500ABFF34 /* roni.png */;
+	};
+	3120689C1249AC4D00ABFF34 /* RonyRolaViewController.m:74 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* RonyRolaViewController.m */;
+		functionName = "-buttonPressed:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 74;
+		location = RonyRola;
+		modificationTime = 306953824.582492;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	312068B61249AE0100ABFF34 /* RonyRolaViewController.m:75 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* RonyRolaViewController.m */;
+		functionName = "-buttonPressed:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 75;
+		location = RonyRola;
+		modificationTime = 306953824.612178;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	312069221249B59300ABFF34 /* RonyRolaViewController.m:95 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* RonyRolaViewController.m */;
+		functionName = "-handleTimer";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 95;
+		location = RonyRola;
+		modificationTime = 306953824.612672;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	315E3F87124A87CF00A85A68 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* RonyRola-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/cadusk/Projects/RonyRola/RonyRola-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	31932DE0124A854F0049FE1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RonyRolaViewController.m */;
+		name = "RonyRolaViewController.m: 27";
+		rLen = 0;
+		rLoc = 642;
+		rType = 0;
+		vrLen = 819;
+		vrLoc = 640;
+	};
+	31B8AC2E124BEE900086E564 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RonyRolaViewController.h */;
+		name = "RonyRolaViewController.h: 24";
+		rLen = 0;
+		rLoc = 572;
+		rType = 0;
+		vrLen = 531;
+		vrLoc = 48;
+	};
+	31E39F5E124BBE9A003552DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RonyRolaViewController.h */;
+		name = "RonyRolaViewController.h: 24";
+		rLen = 0;
+		rLoc = 572;
+		rType = 0;
+		vrLen = 534;
+		vrLoc = 45;
+	};
+	8D1107310486CEB800E47090 /* RonyRola-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{70, 55}, {932, 718}}";
+		};
+	};
+}
